@@ -6,7 +6,7 @@ A clean, responsive landing page built based on the **BOSE New Version** design.
 
 ## 🔗 Live Preview
 
-[➡️ View Demo](https://mykhailosavchenko.github.io/clear-landing/)
+[➡️ View Demo](https://mykhailosavchenko.github.io/my-landing-page/)
 
 ## 🖼 Design Reference
 
